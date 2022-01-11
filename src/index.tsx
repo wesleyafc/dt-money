@@ -25,7 +25,7 @@ createServer({
           title: "dawdawdawd",
           type: 'withdraw',
           category: 'Dev',
-          amount: -2000,
+          amount: 2000,
           createdAt: new Date('2020-02-12 09:00:00')
         },
       ]
